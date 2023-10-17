@@ -42,7 +42,7 @@
             </a>
         </div>
         <div class="relative shadow-2xl grid place-items-center">
-            <img src={"images/Profile.jpg"} alt="Profile Image" class="object-cover z-[2] max-h-[70vh]" />
+            <img src={"images/Profile.png"} alt="Profile Image" class="object-cover z-[2] max-h-[70vh]" />
         </div>
     </section>
     <section id="projects" class="py-20 lg:py-22 flex flex-col gap-24">
